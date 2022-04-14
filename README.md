@@ -1,4 +1,4 @@
-# business-data-triyakom project
+# data-triyakom-ms project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
